@@ -1,5 +1,13 @@
 # rusty-acp
 
+> **This repo has moved.** `rusty_acp` now lives at
+> [`crates/rusty_acp`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_acp)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo,
+> merged in with its full commit history via `git subtree`. This repo is
+> kept for historical reference (issues, PRs, prior releases) but is no
+> longer where development happens -- open new issues and PRs against
+> `rusty_mill` instead.
+
 [![CI](https://github.com/baileyrd/rusty_acp/actions/workflows/ci.yml/badge.svg)](https://github.com/baileyrd/rusty_acp/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![MSRV](https://img.shields.io/badge/rustc-1.86%2B-orange.svg)](#install)
